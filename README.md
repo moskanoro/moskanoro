@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm moskanor</h1>
 <h3 align="center">🌐👨🏻‍💻</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/VrzXhtoSwcsAAAAd/hacker-typing.gif">
+<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/VrzXhtoSwcsAAAAd/hacker-typing.gif](https://i.gifer.com/WJ3G.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moskanoro&label=Profile%20views&color=0e75b6&style=flat" alt="moskanoro" /> </p>
 
 - ⚡ I’m currently working towards degree in CS **Nanjing University of Information Science And Technology**
