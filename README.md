@@ -5,7 +5,7 @@
 
 - ⚡ I’m currently working towards degree in CS **Nanjing University of Information Science And Technology**
 
-- ⚡**Graduate of the ALX Software Engineering Program, which follows the Holberton School curriculum, earning a double certificate from both institutions**
+- ⚡A Graduate of the **ALX Software Engineering Program**, which follows the **Holberton School** curriculum, earning a double certificate from both institutions
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
