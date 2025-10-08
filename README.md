@@ -3,10 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NAB1czkIZnoAAAAi/dark-souls-artorias.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moskanoro&label=Profile%20views&color=0e75b6&style=flat" alt="moskanoro" /> </p>
 
-- ⚡ I’m currently working towards degree in CS **Nanjing University of Information Science And Technology**
-
-- ⚡A Graduate of the **ALX Software Engineering Program**, which follows the **Holberton School** curriculum, earning a double certificate from both institutions
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mostapha boudad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostapha boudad" height="30" width="40" /></a>
